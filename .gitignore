@@ -1,0 +1,42 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+build/
+dist/
+.svelte-kit/
+.vercel_build_output/
+.vite/
+vite.config.ts.timestamp-*
+vite.config.js.timestamp-*
+
+# Storybook
+.storybook-out/
+storybook-static/
+*.storybook-cache
+.storybook-cache/
+
+# Tailwind
+*.css.map
+tailwind.config.js.timestamp-*
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local

@@ -10,12 +10,12 @@ The backend directly connects to **OpenAI**, ensuring that user requests are han
 By leveraging LangChain’s modular framework, the project combines language understanding with structured output formatting to produce consistent and reliable results.
 
 ## Key Features
-- 🗓 Natural language input transformed into structured **JSON input/output**  
-- ⚡ Automatic schedule generation from existing data  
-- 🎨 **Svelte showcase** with integrated frontend & backend  
-- 🧩 **LangChain (TypeScript)** for reasoning and orchestration  
-- 🤖 **OpenAI integration** for powerful language understanding  
-- 🔧 Extendable design for real-world applications and AI-driven workflows  
+- Natural language input transformed into structured **JSON input/output**  
+- Automatic schedule generation from existing data  
+- **Svelte showcase** with integrated frontend & backend  
+- **LangChain (TypeScript)** for reasoning and orchestration  
+- **OpenAI integration** for powerful language understanding  
+- Extendable design for real-world applications and AI-driven workflows  
 
 ## Purpose  
 This repository provides a foundation for experimenting with AI-assisted scheduling and showcases how modern frontend frameworks, strong backend integrations, and advanced language models can work together effectively.

@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Fred",
+		"skills": [],
+		"id": 1
+	},
+	{
+		"name": "Bob",
+		"skills": ["WindowManufacturer"],
+		"id": 2
+	},
+	{
+		"name": "Susi",
+		"skills": ["HighVoltage"],
+		"id": 3
+	},
+	{
+		"name": "Fritz",
+		"skills": [],
+		"id": 4
+	},
+	{
+		"name": "Alfred",
+		"skills": ["WindowManufacturer", "HighVoltage"],
+		"id": 5
+	}
+]

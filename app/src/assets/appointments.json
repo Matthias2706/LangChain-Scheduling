@@ -1,0 +1,58 @@
+[
+	{
+		"name": "Montage Küche",
+		"fromDate": "2025-07-21T08:00:00",
+		"toDate": "2025-07-21T18:00:00",
+		"technicians": [1, 2],
+		"id": 1,
+		"canBeMoved": true
+	},
+	{
+		"name": "Elektroinstallation",
+		"fromDate": "2025-07-22T11:00:00",
+		"toDate": "2025-07-22T13:00:00",
+		"technicians": [2, 3],
+		"id": 2,
+		"canBeMoved": true
+	},
+	{
+		"name": "Anbringung eines Fensters",
+		"fromDate": "2025-07-22T08:15:00",
+		"toDate": "2025-07-22T11:00:00",
+		"technicians": [2, 3],
+		"id": 6,
+		"canBeMoved": true
+	},
+	{
+		"name": "Kontrolle Fenster",
+		"fromDate": "2025-07-22T17:30:00",
+		"toDate": "2025-07-22T18:00:00",
+		"technicians": [2, 3],
+		"id": 6,
+		"canBeMoved": true
+	},
+	{
+		"name": "Badinstallation",
+		"fromDate": "2025-07-23T09:00:00",
+		"toDate": "2025-07-23T17:45:00",
+		"technicians": [3],
+		"id": 3,
+		"canBeMoved": true
+	},
+	{
+		"name": "Blitzableiter",
+		"fromDate": "2025-07-24T08:30:00",
+		"toDate": "2025-07-24T16:30:00",
+		"technicians": [1, 3],
+		"id": 4,
+		"canBeMoved": true
+	},
+	{
+		"name": "Fensterinstallation",
+		"fromDate": "2025-07-25T10:00:00",
+		"toDate": "2025-07-25T16:00:00",
+		"technicians": [2],
+		"id": 5,
+		"canBeMoved": true
+	}
+]
